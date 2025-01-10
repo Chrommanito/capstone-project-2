@@ -1,1 +1,1 @@
-Ini project dari Raega Purnama Tanadi yng diperuntukan untuk tugas Capstone Project 2 yang diberikan oleh Purwdhika kelas JDSOL-017. Git ini berisi file python dalam bentuk .ipynb yang menunjukan bagimana data SaaS Sales dibersihkan.
+Ini project dari Raega Purnama Tanadi yang diperuntukan untuk tugas Capstone Project 2 yang diberikan oleh Purwdhika untuk kelas JCDSOL-017. Git ini berisi file python dalam bentuk .ipynb yang menunjukan bagimana data SaaS Sales dibersihkan. File Python tersebut terletak di dalam folder "Codes" untuk kerapihan.
